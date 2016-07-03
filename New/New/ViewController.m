@@ -18,6 +18,8 @@
     [super viewDidLoad];
     self.view.backgroundColor=[UIColor orangeColor];
     UILabel *lab=[UILabel new];
+    
+    UIButton *bu=[UIButton new];
 }
 
 - (void)didReceiveMemoryWarning {
