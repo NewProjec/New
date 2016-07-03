@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     self.view.backgroundColor=[UIColor orangeColor];
+    UILabel *lab=[UILabel new];
 }
 
 - (void)didReceiveMemoryWarning {
